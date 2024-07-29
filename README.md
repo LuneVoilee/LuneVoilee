@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**LuneVoilee/LuneVoilee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img align="right" alt="GIF" src="resource/maomao.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨这里是Lune Voilee
+
+- 来自电子科技大学软件工程专业
+- 熟悉C++，热爱游戏开发
+
+
+### 🚩个人项目
+
+- [Effective C++全书五万字阅读笔记](https://github.com/LuneVoilee/EffectiveCPP_BookNotes)
