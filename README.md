@@ -9,5 +9,6 @@
 
 
 ### 🚩个人项目
+- [C++魔法实验室（捣鼓一些新奇玩意）](https://github.com/LuneVoilee/MagicLab)
 - [仿Minecraft地形生成Demo](https://github.com/LuneVoilee/MinecraftTerrainGeneration)
 - [Effective C++全书五万字阅读笔记](https://github.com/LuneVoilee/EffectiveCPP_BookNotes)
